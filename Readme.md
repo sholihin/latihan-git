@@ -1,1 +1,4 @@
 kepala
+pundak
+lutut
+kaki
